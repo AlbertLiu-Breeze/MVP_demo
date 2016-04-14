@@ -1,0 +1,2 @@
+# MVP_demo
+MVP模式的一个demo，涉及Activity和fragment的抽取，作为抽象工程基础结构的参考
